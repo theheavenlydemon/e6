@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type = "text/css" href = "6a.css"?>
+<students>
+<student>
+<rollno> 20DX02 </rollno>
+<name> Alagupandi </name>
+<branch> DCE</branch>
+<YOJ> 2020 </YOJ>
+<email> 20dx02@psgpolytech.ac.in </email>
+</student>
+<student>
+<rollno> 20DX21 </rollno>
+<name> Venkatram</name>
+<branch> DCE </branch>
+<YOJ> 2020 </YOJ>
+<email> venkatram2002.vr@gmail.com </email>
+</student>
+</students>

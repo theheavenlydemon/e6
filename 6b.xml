@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding='UTF-8'?>
+<?xml-stylesheet type = "text/xsl" href = "6b.xsl" ?>
+<student>
+<info>
+<rollno> 20DX21 </rollno>
+<name> Venkatram S S </name>
+<college> PSGPTC </college>
+<branch> DCE </branch>
+<YOJ> 2020 </YOJ>
+<email> 20dx21@psgpolytech.ac.in </email>
+</info>
+</student>
